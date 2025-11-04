@@ -7,3 +7,10 @@ My first respiratory
 - Pokemon
 - Breaking Bad
 - Naruto
+
+```
+{
+  "movie": "Spiderman",
+  "series": "Black Clover"
+}
+```
